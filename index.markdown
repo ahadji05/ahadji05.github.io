@@ -7,3 +7,5 @@ layout: home
 
 from : "/top/index.markdown"
 
+This pages is still a kind of experiment - for practice - there is no useful content to see yet ;-)
+ 
