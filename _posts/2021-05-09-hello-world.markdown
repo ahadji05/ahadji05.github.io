@@ -5,8 +5,9 @@ title:  "Hello"
 
 # Welcome
 
-**Hello world**, this is my first Jekyll blog post.
+**Hello bros, yo**, this is my first Jekyll blog post.
 
 I hope you like it!
 
-by the way this is my project proposal [get the PDF](/assets/proposal.pdf) .
+by the way this is an interesting document [here](/assets/waves_interesting_facts.pdf).
+
