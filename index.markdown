@@ -5,7 +5,13 @@
 layout: home
 ---
 
-from : "/top/index.markdown"
+I am a computer hardware and software enthusiast interested in designing and 
+developing efficient algorithms for single-core, or many-core systems. I am 
+excited about programming languages that allow squeezing the computational 
+resources of computers, such as C and C++, though I do love working with more 
+high-level languages like Python. 
 
-This pages is still a kind of experiment - for practice - there is no useful content to see yet ;-)
- 
+I am specializing in parallel processing and high-performance computing, so 
+technologies like CUDA, MPI, and OpenMP are my tools to torturing the hell out of hardware!
+
+
