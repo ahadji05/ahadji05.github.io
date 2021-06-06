@@ -19,11 +19,22 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Andreas Hadjigeorgiou
+email: a.hadjigeorgiou@cyi.ac.cy
 email: andreashadji1995@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I'm a computer hardware and software enthusiast interested in 
+  designing and developing efficient algorithms for single-core 
+  or many-core systems. I'm excited about programming languages 
+  that allow squeezing the computational resources of computers, 
+  such as C and C++; I still love working with more high-level 
+  languages like Python.
+
+  I'm specializing in parallel processing and high-performance 
+  computing, so technologies like CUDA, MPI, and OpenMP are my 
+  tools to torturing the hell out of hardware!
+
+  I'm not only interested in performance; I give attention to 
+  portability, extendability, and validity too!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
