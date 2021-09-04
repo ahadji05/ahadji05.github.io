@@ -20,11 +20,10 @@
 
 title: Andreas Hadjigeorgiou
 email: a.hadjigeorgiou@cyi.ac.cy
+
 description: >- # this means to ignore newlines until "baseurl:"
-  Currently a Ph.D. student in Computational Sciences at the Computation-Based 
-  Science and Technology Research Center (CaSToRC) in the Cyprus Institute. 
-  https://castorc.cyi.ac.cy
-baseurl: "" 
+
+baseurl: ""
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  ahadji05
