@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Books
-permalink: /Books/
+title: Interests
+permalink: /Interests/
 ---
 
 ### **My list of favorite books:**
