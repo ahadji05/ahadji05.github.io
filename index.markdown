@@ -15,3 +15,7 @@ high-level languages like Python.
 
 I am specializing in parallel processing and high-performance computing, so 
 technologies like CUDA, MPI, and OpenMP are my tools to torturing the hell out of hardware \hj
+
+I'm not only interested in performance; I give attention to portability, maintainability and testability.
+
+My motto is: *Software design is an art, and writing low-overhead abstractions is a skill*
